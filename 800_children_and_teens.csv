@@ -1,11 +1,3 @@
-# name: Table2
-# attribute -- name: Gender, editable: true
-# attribute -- name: Age, editable: true
-# attribute -- name: Weight, editable: true
-# attribute -- name: Height, editable: true
-# attribute -- name: BMI, editable: true
-# attribute -- name: UpperArmLength, editable: true
-# attribute -- name: Pulse, editable: true
 Gender,Age,Weight,Height,BMI,UpperArmLength,Pulse
 Male,18,66.8,176,21.57,38.1,54
 Female,17,58.7,164.7,21.64,35.5,50
