@@ -1,4 +1,5 @@
 wheel
+pyarrow
 pandas
 plotly
 seaborn
