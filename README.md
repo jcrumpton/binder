@@ -2,7 +2,7 @@
 
 The following Python Jupyter Notebooks are for Mississippi State University's DCSI 8033 Data Science Classroom Integration course.
 
-Python code for the "Changes in Fish Habitat" juypter notebook:
+Python code for the "Changes in Fish Habitat" jupyter notebook:
 https://mybinder.org/v2/gh/jcrumpton/binder.git/HEAD?labpath=lobsters.ipynb
 
 Python code for _Awash in Data_ [Chapter 3](https://codap.xyz/awash/children-and-teens-1.html): 800 Children and Teens, part one
