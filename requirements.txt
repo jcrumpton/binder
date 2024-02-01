@@ -1,6 +1,6 @@
 wheel
 pyarrow
-pandas
+pandas==2.1.1
 plotly
 seaborn
 statsmodels
